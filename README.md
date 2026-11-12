@@ -176,4 +176,4 @@ This repository serves as the official landing page for ACS CCID PCSC Driver. Th
 **Get the most recent version of ACS CCID PCSC Driver today!**
 
 ---
-**Last updated:** 2026-11-11 17:02:11 UTC
+**Last updated:** 2026-11-12 00:11:13 UTC
